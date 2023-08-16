@@ -757,7 +757,7 @@ img {
 }
 
 .swiper-container-horizontal > .swiper-pagination-bullets {
-  bottom: -2.5rem;
+  bottom: -.5rem;
 }
 
 .swiper-pagination-bullet-active {
@@ -769,12 +769,6 @@ img {
 .swiper-pagination-bullet {
   outline: none;
 }
-
-/*==================== PROJECT IN MIND ====================*/
-
-
-/*==================== TESTIMONIAL ====================*/
-
 
 /*==================== CONTACT ME ====================*/
 

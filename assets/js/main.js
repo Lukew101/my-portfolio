@@ -107,8 +107,6 @@ let swiper = new Swiper(".portfolio__container", {
     },
   });
 
-/*==================== TESTIMONIAL ====================*/
-
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 
