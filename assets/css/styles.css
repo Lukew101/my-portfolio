@@ -609,11 +609,6 @@ img {
 }
 
 /*==================== SERVICES ====================*/
-.services__container {
-  gap: 1.5rem;
-  grid-template-columns: repeat(2, 1fr);
-}
-
 .services__content {
   position: relative;
   background-color: var(--container-color);
@@ -701,8 +696,18 @@ img {
   margin-right: var(--mb-0-25);
 }
 
-/* Active Modal */
+@media (min-width: 350px) {
+  .services__container {
+    gap: 1.5rem;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 
+/* Active Modal */
+.active-modal {
+  opacity: 1;
+  visibility: visible;
+}
 
 /*==================== PORTFOLIO ====================*/
 
