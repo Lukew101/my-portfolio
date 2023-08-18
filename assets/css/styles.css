@@ -727,7 +727,7 @@ img {
 
 /*==================== PORTFOLIO ====================*/
 .portfolio__container {
-  overflow: inital;
+  overflow: inherit;
 }
 
 .portfolio__content {
@@ -772,7 +772,7 @@ img {
 }
 
 .swiper-container-horizontal > .swiper-pagination-bullets {
-  bottom: -.5rem;
+  bottom: -3.5rem;
 }
 
 .swiper-pagination-bullet-active {
@@ -1063,7 +1063,7 @@ img {
   }
 
   .about__img {
-    width: 250px;
+    width: 300px;
   }
 
   .about__description {
@@ -1166,11 +1166,11 @@ img {
   }
 
   .swiper-button-prev {
-    left: -.5rem;
+    left: -1.5rem;
   }
 
   .swiper-button-next {
-    right: -.5rem;
+    right: -1.5rem;
   }
 
   .swiper-container-horizontal > .swiper-pagination-bullets {
