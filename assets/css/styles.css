@@ -1108,7 +1108,8 @@ img {
   }
 
   .portfolio__img {
-    width: 320px;
+    min-width: 380px;
+    min-height: 250px;
   }
 
   .portfolio__content {
@@ -1158,7 +1159,7 @@ img {
   }
 
   .portfolio__content {
-    column-gap: 5rem;
+    column-gap: 3rem;
   }
 
   .swiper-portfolio-icon {
