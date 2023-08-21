@@ -11,7 +11,5 @@ This portfolio showcases my skills, projects, and experience as a developer. It'
 - **Project Showcase**: Browse through the projects I've worked on. Each project comes with a brief description, tech stack and a link to the live version or repository.
 - **Contact Information**: Interested in connecting with me? Use the provided contact information to reach out via email or social media.
 
-## Usage
-
 ## Contact
 You can reach out to me via email at lukewilliams10101@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/luke-williams-b693421b6/).
