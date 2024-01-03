@@ -981,6 +981,10 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .skills__grid {
+    gap: inherit;
+  }
+
   .qualification__sections {
     display: grid;
     grid-template-columns: .6fr;
